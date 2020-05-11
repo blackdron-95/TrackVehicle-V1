@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1066243432488",
+    "firebase_url": "https://trackvehicle-cc8b6.firebaseio.com",
+    "project_id": "trackvehicle-cc8b6",
+    "storage_bucket": "trackvehicle-cc8b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066243432488:android:5b51e4250b3acac723551d",
+        "android_client_info": {
+          "package_name": "com.app.trackvehicle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066243432488-mn5a32dp3tgqc9epv9k25lr7tnt3a7vt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.trackvehicle",
+            "certificate_hash": "4567a77bf9cf786e2a750bf24086ce656dd3c306"
+          }
+        },
+        {
+          "client_id": "1066243432488-thcgb3d167snuf9kmd3cq6fqfhmiojb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnoufP9pKdQidu6qxRbh3zUDQDipfOfNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066243432488-thcgb3d167snuf9kmd3cq6fqfhmiojb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
